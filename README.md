@@ -28,4 +28,4 @@ Lihat hasil tangkapan layar program di sini:
 
 ### 🎥 Video Presentasi
 Tonton penjelasan dan demo program kami di YouTube:
-📺 Video Presentasi Minesweeper Lite
+📺 [Video Presentasi Minesweeper Lite](https://youtu.be/n5AJdJhKbE4?feature=shared)
